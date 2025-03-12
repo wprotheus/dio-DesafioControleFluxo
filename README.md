@@ -2,7 +2,7 @@
 
 ## Controle de Fluxo - Desafio
 
-O sistema deverá receber dois parâmetros via terminal, que serão dois números inteiros. Com estes dois números deverá ser obtida a quantidade de interações (**for*) e realizar a impressão no console 
+O sistema deverá receber dois parâmetros via terminal, que serão dois números inteiros. Com estes dois números deverá ser obtida a quantidade de interações (**for**) e realizar a impressão no console 
 (**System.out.print**) da diferença entre os números, exemplo:
 
 * Se for passado os números 12 e 30, teremos uma interação com 18 ocorrências para imprimir os números, exemplo:
